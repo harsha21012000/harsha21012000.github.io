@@ -3,7 +3,7 @@ TITLE:
 Persona
 
 AUTHOR:
-DESIGNED harsha vardha
+DESIGNED harsha vardhan
 
 
 CREDITS:
