@@ -446,5 +446,8 @@ figure {
     padding-bottom: 1em;
   }
 }
+img {
+   border-radius:50%;
+}
 
 /*# sourceMappingURL=style.css.map */
